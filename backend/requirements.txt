@@ -1,0 +1,4 @@
+fastapi>=0.112,<1
+uvicorn[standard]>=0.23,<1
+pandas>=2.0,<3
+together>=1.2,<2

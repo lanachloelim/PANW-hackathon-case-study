@@ -1,0 +1,9 @@
+{
+    "saver": [
+        {
+            "description": "Save for vacation",
+            "target_amount": 1000,
+            "duration_months": 6
+        }
+    ]
+}
