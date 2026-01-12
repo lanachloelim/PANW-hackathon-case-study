@@ -21,3 +21,5 @@ python3 server.py
 npm install
 npm run dev
 ```
+
+Video demo: https://youtu.be/Ns8Oml-6kjQ
